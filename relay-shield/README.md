@@ -11,7 +11,7 @@ Making a socket controller with Arduino UNO and relay shield is an easy way. You
 - [Buy Relay Shield for UNO](https://www.google.com/search?q=Buy+Relay+Shield+for+UNO)
 
 ### Scheme:
-![scheme.png](scheme.png)
+![scheme.jpg](scheme.jpg)
 
 ## Programming
 
